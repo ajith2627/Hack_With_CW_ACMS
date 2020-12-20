@@ -105,5 +105,3 @@ _But wait....What about the users who does not have an access to the internet...
 <br><br>
 
 
-## ***_Video  :_***  
-[click here](https://youtu.be/dWosWoDzlcE)
